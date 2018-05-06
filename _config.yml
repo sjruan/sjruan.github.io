@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Sijie Ruan's Homepage
 url: 'http://sjruan.me'
 baseurl: '/' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -15,27 +15,27 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 #Profile information
 name: Sijie Ruan
-tagline: Full Stack Developer
+tagline: Water Slider
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Sijie Ruan is a Ph.D. Candidate at the Computer Science and Technology School of Xidian University. 
+He received his B.E. degree of Computer Science from Xidian University in 2017. 
+His research interests include urban computing, spatio-temporal data management and mining, and distributed computing. 
+He is now an algorithm engineer at Urban Computing Lab, JD Finance.'
 
 #sidebar links
-email: sjruan94@gmail.com
+email: sjruan94 AT gmail DOT com
 #phone: 012 345 6789
 #website: blog.webjeda.com #do not add http://
 linkedin: sijie-ruan-184102105
 github: sjruan
-twitter: '@webjeda'
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 #education_in_main: True
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-118804413-1
 
 # Build settings
 encoding: "utf-8"
