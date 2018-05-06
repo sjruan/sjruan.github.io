@@ -237,9 +237,9 @@ p {
   margin-bottom: 15px;
 }
 .main-wrapper .publication-title {
-  font-size: 16px;
   font-weight: 500;
   margin-bottom: 1px;
+  text-decoration: underline;
 }
 .main-wrapper .publication-authors {
   font-style: italic;
