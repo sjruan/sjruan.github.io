@@ -1,8 +1,8 @@
 # Site Settings
 title: Sijie Ruan's Homepage
 url: 'http://sjruan.me'
-baseurl: '/' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+baseurl: '' #change it according to your repository name
+#about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -10,7 +10,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
@@ -26,6 +26,7 @@ He is now an algorithm engineer at Urban Computing Lab, JD Finance.'
 email: sjruan94 AT gmail DOT com
 #phone: 012 345 6789
 #website: blog.webjeda.com #do not add http://
+scholar: oecbn38AAAAJ
 linkedin: sijie-ruan-184102105
 github: sjruan
 #twitter: '@webjeda'
