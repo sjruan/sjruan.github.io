@@ -17,10 +17,10 @@ style: styles-6
 name: Sijie Ruan
 tagline: Spatio-temporal Data Miner
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Sijie Ruan is a Ph.D. Candidate at the Computer Science and Technology School of Xidian University. 
-He received his B.E. degree of Computer Science from Xidian University in 2017. 
+summary: '<b>Sijie Ruan</b> is a year-one Ph.D. student at the Computer Science and Technology School of Xidian University. 
 His research interests include urban computing, spatio-temporal data management and mining, and distributed computing. 
-He is now an algorithm engineer at Urban Computing Lab, JD Finance.'
+He starts his internship in 2018 as an algorithm engineer at Urban Computing Lab, JD Finance, 
+supervised by Chief Data Scientist Prof. <a href="http://urban-computing.com/yuzheng">Yu Zheng</a>, and Dr. <a href="http://jie-bao.org/">Jie Bao</a>.'
 
 #sidebar links
 email: sjruan94 AT gmail DOT com
