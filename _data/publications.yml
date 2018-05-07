@@ -4,12 +4,14 @@ publications:
     authors: <b>Sijie Ruan</b>, Ruiyuan Li, Jie Bao, Tianfu He, Yu Zheng
     conference: Proceedings of the 34th IEEE International Conference on Data Engineering (<b>ICDE 2018</b>)
     url: "http://urban-computing.com/pdf/cloudtp-icde2018-Zheng.pdf"
-    homepage: "http://cloudtp.urban-computing.com"
+    demo: "http://cloudtp.urban-computing.com"
     video: "https://youtu.be/Jaz21IvNsqg"
   - paper:
     title: A Cloud-Based Trajectory Data Management System (Demo Paper)
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yu Zheng
     conference: Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (<b>SIGSPATIAL 2017</b>)
+    url: "http://bucket.kangry.net/paper/TrajectoryManagementSIGSPATIAL2017.pdf"
+    demo: "http://urbantraffic.chinacloudsites.cn/"
   - paper:
     title: "Querying Massive Trajectories by Path on the Cloud (Short Paper)"
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yanhua Li, Yingcai Wu, Yu Zheng
@@ -22,4 +24,6 @@ publications:
     conference: "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD 2017</b>)"
     url: "http://urban-computing.com/pdf/main-1.pdf"
     homepage: "http://urban-computing.com/index-70.htm"
+    video: "https://youtu.be/BT1Ki6lDMBU"
+    demo: "http://urbanbike.chinacloudsites.cn/"
 
