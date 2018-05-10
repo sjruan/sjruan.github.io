@@ -11,6 +11,7 @@ publications:
     url: "http://urban-computing.com/pdf/cloudtp-icde2018-Zheng.pdf"
     demo: "http://cloudtp.urban-computing.com"
     video: "https://youtu.be/Jaz21IvNsqg"
+    poster: "./materials/poster_cloudtp.pdf"
   - paper:
     title: "Querying Massive Trajectories by Path on the Cloud (Short Paper)"
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yanhua Li, Yingcai Wu, Yu Zheng
