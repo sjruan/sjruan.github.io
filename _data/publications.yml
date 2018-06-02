@@ -2,7 +2,7 @@ publications:
   - paper:
     title: "Detecting Illegal Vehicle Parking Events using Sharing Bikes' Trajectories"
     authors: Tianfu He, Jie Bao, Ruiyuan Li, <b>Sijie Ruan</b>, Yanhua Li, Chao Tian, Yu Zheng
-    conference: "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD 2018</b>)"
+    conference: "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>SIGKDD 2018</b>)"
     url: "http://urban-computing.com/pdf/kdd2018illegalparking.pdf"
     demo: "http://illparking.urban-computing.com"
   - paper:
@@ -28,7 +28,7 @@ publications:
   - paper:
     title: Planning Bike Lanes based on Sharing-Bikes' Trajectories
     authors: Jie Bao, Tianfu He, <b>Sijie Ruan</b>, Yanhua Li, Yu Zheng
-    conference: "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD 2017</b>)"
+    conference: "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>SIGKDD 2017</b>)"
     url: "http://urban-computing.com/pdf/main-1.pdf"
     homepage: "http://urban-computing.com/index-70.htm"
     video: "https://youtu.be/BT1Ki6lDMBU"
