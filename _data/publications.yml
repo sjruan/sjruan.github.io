@@ -3,6 +3,7 @@ publications:
     title: "Detecting Illegal Vehicle Parking Events using Sharing Bikes' Trajectories"
     authors: Tianfu He, Jie Bao, Ruiyuan Li, <b>Sijie Ruan</b>, Yanhua Li, Chao Tian, Yu Zheng
     conference: "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD 2018</b>)"
+    url: "http://urban-computing.com/pdf/kdd2018illegalparking.pdf"
     demo: "http://illparking.urban-computing.com"
   - paper:
     title: "CloudTP: A Cloud-based Flexible Trajectory Preprocessing Framework (Demo Paper)"
