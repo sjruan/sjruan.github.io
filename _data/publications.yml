@@ -1,5 +1,10 @@
 publications:
   - paper:
+    title: "UrbanFM: Inferring Fine-Grained Urban Flows"
+    authors: Yuxuan Liang, Kun Ouyang, Lin Jing, <b>Sijie Ruan</b>, Ye Liu, Junbo Zhang, David S. Rosenblum, Yu Zheng
+    conference: "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>SIGKDD 2019</b>)"
+    url: "https://arxiv.org/pdf/1902.05377.pdf"
+  - paper:
     title: "Efficient Path Query Processing over Massive Trajectories on the Cloud"
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yanhua Li, Yingcai Wu, Liang Hong, Yu Zheng
     conference: "IEEE Transactions on Big Data (<b>TBD 2018</b>)"
