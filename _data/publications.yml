@@ -5,6 +5,11 @@ publications:
     conference: "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>SIGKDD 2019</b>)"
     url: "https://arxiv.org/pdf/1902.05377.pdf"
   - paper:
+    title: "Interactive Bike Lane Planning using Sharing Bikes' Trajectories"
+    authors: Tianfu He, Jie Bao, <b>Sijie Ruan</b>, Ruiyuan Li, Yanhua Li, Hui He, Yu Zheng
+    conference: "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)"
+    url: "http://urban-computing.com/pdf/TKDE2019HeBao.pdf"
+  - paper:
     title: "Efficient Path Query Processing over Massive Trajectories on the Cloud"
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yanhua Li, Yingcai Wu, Liang Hong, Yu Zheng
     conference: "IEEE Transactions on Big Data (<b>TBD 2018</b>)"
