@@ -2,7 +2,7 @@ publications:
   - paper:
     title: "Learning to Generate Maps from Trajectories"
     authors: <b>Sijie Ruan</b>, Cheng Long, Jie Bao, Chunyang Li, Zisheng Yu, Ruiyuan Li, Yuxuan Liang, Tianfu He, Yu Zheng
-    conference: "The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI-20</b>)"
+    conference: "The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI 2020</b>)"
     url: ""
   - paper:
     title: "UrbanFM: Inferring Fine-Grained Urban Flows"
