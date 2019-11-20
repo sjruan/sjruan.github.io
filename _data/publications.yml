@@ -9,15 +9,16 @@ publications:
     authors: Yuxuan Liang, Kun Ouyang, Lin Jing, <b>Sijie Ruan</b>, Ye Liu, Junbo Zhang, David S. Rosenblum, Yu Zheng
     conference: "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>SIGKDD 2019</b>)"
     url: "https://arxiv.org/pdf/1902.05377.pdf"
+    code: "https://github.com/yoshall/UrbanFM"
   - paper:
     title: "Interactive Bike Lane Planning using Sharing Bikes' Trajectories"
     authors: Tianfu He, Jie Bao, <b>Sijie Ruan</b>, Ruiyuan Li, Yanhua Li, Hui He, Yu Zheng
-    conference: "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)"
+    conference: "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>), 2019"
     url: "http://urban-computing.com/pdf/TKDE2019HeBao.pdf"
   - paper:
     title: "Efficient Path Query Processing over Massive Trajectories on the Cloud"
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yanhua Li, Yingcai Wu, Liang Hong, Yu Zheng
-    conference: "IEEE Transactions on Big Data (<b>TBD 2018</b>)"
+    conference: "IEEE Transactions on Big Data (<b>TBD</b>), 2018"
     url: "http://bucket.kangry.net/paper%2FTBD%202018%20Efficient%20Path%20Query%20Processing%20over%20Massive%20Trajectories%20on%20the%20Cloud.pdf"
   - paper:
     title: "Detecting Illegal Vehicle Parking Events using Sharing Bikes' Trajectories"
@@ -33,6 +34,7 @@ publications:
     demo: "http://cloudtp.urban-computing.com"
     video: "https://youtu.be/Jaz21IvNsqg"
     poster: "./materials/poster_cloudtp.pdf"
+    code: "https://github.com/sjruan/tptk"
   - paper:
     title: "Querying Massive Trajectories by Path on the Cloud (Short Paper)"
     authors: Ruiyuan Li, <b>Sijie Ruan</b>, Jie Bao, Yanhua Li, Yingcai Wu, Yu Zheng
