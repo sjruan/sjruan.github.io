@@ -1,5 +1,35 @@
 publications:
   - paper:
+    title: "Fine-Grained Urban Flow Inference"
+    authors: Kun Ouyang, Yuxuan Liang, Ye Liu, Zekun Tong, <b>Sijie Ruan</b>, Yu Zheng, David S. Rosenblum.
+    conference: "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)"
+    url: ""
+  - paper:
+    title: "You Are How You Use: Catching Gas Theft Suspects among Diverse Restaurant Users"
+    authors: Xiaodu Yang, Xiuwen Yi, Shun Chen, <b>Sijie Ruan</b>, Junbo Zhang, Yu Zheng, Tianrui Li.
+    conference: "Proceedings of the 29th ACM International Conference on Information and Knowledge Management (<b>CIKM 2020</b>)"
+    url: ""
+  - paper:
+    title: "Doing in One Go: Delivery Time Inference Based on Couriers’ Trajectories"
+    authors: <b>Sijie Ruan</b>, Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang, Yu Zheng.
+    conference: "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD 2020</b>)"
+    url: ""
+  - paper:
+    title: "Discovering Real-time Reachable Area using Trajectory Connections"
+    authors: Ruiyuan Li, Jie Bao, Huajun He, <b>Sijie Ruan</b>, Tianfu He, Liang Hong, Zhongyuan Jiang, Yu Zheng.
+    conference: "Proceedings of 25th International Conference on Database Systems for Advanced Applications (<b>DASFAA 2020</b>)"
+    url: ""
+  - paper:
+    title: "Dynamic Public Resource Allocation based on Human Mobility Prediction"
+    authors: <b>Sijie Ruan</b>, Jie Bao, Yuxuan Liang, Ruiyuan Li, Tianfu He, Chuishi Meng, Yanhua Li, Yingcai Wu, Yu Zheng.
+    conference: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<b>IMWUT/UbiComp 2020</b>)"
+    url: ""
+  - paper:
+    title: "What is the Human Mobility in a New City? Transfer Mobility Knowledge Across Cities"
+    authors: Tianfu He, Jie Bao, Ruiyuan Li, <b>Sijie Ruan</b>, Yanhua Li, Li Song, Hui He, Yu Zheng.
+    conference: "Proceedings of the The Web Conference 2020 (<b>WWW 2020</b>)"
+    url: ""
+  - paper:
     title: "JUST: JD Urban Spatio-Temporal Data Engine"
     authors: Ruiyuan Li, Huajun He, Rubin Wang, Yuchuan Huang, Junwen Liu, <b>Sijie Ruan</b>, Tianfu He, Jie Bao, Yu Zheng.
     conference: "Proceedings of the 36th IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)"
