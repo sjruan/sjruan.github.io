@@ -1,18 +1,252 @@
----
-layout: default
----
+<head>
+    <title>Sijie Ruan</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="resources/main.css">
+</head>
 
-            
-{% include career-profile.html %}
-            
-{% if site.education_in_main %}
-    {% include education-section.html %}
-{% endif %}
-            
-{% include experience.html %}
-            
-{% include publications.html %}
-            
-{% include achievement.html %}
+<body>
+
+<table>
+<tr>
+<td><img src="images/face.jpg" width="200"></td>
+<td>
+<div style="font-size:24; font-weight:bold">Sijie Ruan 阮思捷</div>
+<div>
+Ph.D. Candidate in Computer Science<br/>
+<a href="http://cs.xidian.edu.cn" target='_blank'>School of Computer Science and Technology</a><br/>
+<a href="http://www.xidian.edu.cn" target='_blank'>Xidian University</a><br/>
+</div>
+<div>
+    <b>Email:</b> <tt>sjruan [at] stu [dot] xidian [dot] edu [dot] cn</tt><br>
+</div>
+<div>
+<a href="#publication">[Publication]</a>&nbsp;
+<a href="#education">[Education]</a>&nbsp;
+<a href="#experiences">[Experiences]</a>&nbsp;
+<br><br>
+<a href="resources/cv.pdf" target='_blank'>[CV (February, 2021)]</a>&nbsp;
+<a href="https://scholar.google.com/citations?user=oecbn38AAAAJ&hl=en" target='_blank'>[Google Scholar]</a>&nbsp;
+<a href="https://github.com/sjruan" target='_blank'>[GitHub]</a>
+<a href="https://www.linkedin.com/in/sijie-ruan-184102105/" target="_blank">[LinkedIn]</a>
+</div>
+</td>
+</tr>
+</table>
+<br>
+
+<h3>About</h3>
+<div class="section">
+<ul>
+    <p>I am currently a fourth-year Ph.D. student at School of Computer Science and Technology, Xidian University advised by 
+    <a href="http://urban-computing.com/yuzheng" target='_blank'>Prof. Yu Zheng</a>.</p>
+    
+    <p>I have published some papers in refereed journals and conferences, such as TKDE, KDD, AAAI, ICDE, WWW and UbiComp.</p>
+
+    <p>I also serve as a reviewer/PC member for several top-tier journals and conferences, e.g., TIST and AAAI.</p>
+
+    <p></p>
+
+    <p>My research interests include trajectory data mining, urban planning, spatio-temporal data management and urban computing.</p>
+
+</ul>
+</div>
+<br>
+
+<!-- <h3>News</h3>
+<div class="section">
+<ul>
+<ul>
+    <li>[Jul, 2020] One paper gets accepted to CIKM 2020.</li>
+</ul>
+</div>
+<br> -->
+
+<a name="publication"></a>
+<h3>Publication</h3>
+<div class="section">
+    <ul>
+        <li><a href="http://urban-computing.com/pdf/CIKM2020_Xiaodu_YANG.pdf" target='_blank'>You Are How You Use: Catching Gas Theft Suspects among Diverse Restaurant Users</a><br>
+            Xiaodu Yang, Xiuwen Yi, Shun Chen, <strong>Sijie Ruan</strong>, Junbo Zhang, Yu Zheng and Tianrui Li<br>
+            in Proc. of The 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/TKDE_UrbanFlowInfer.pdf" target='_blank'>Fine-Grained Urban Flow Inference</a><br>
+            Kun Ouyang, Yuxuan Liang, Ye Liu, Zekun Tong, <strong>Sijie Ruan</strong>, Yu Zheng and David S. Rosenblum<br>
+            in IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/KDD2020%20Delivery%20Time.pdf" target='_blank'>Doing in One Go: Delivery Time Inference Based on Couriers' Trajectories</a><br>
+            <strong>Sijie Ruan</strong>, Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang and Yu Zheng<br>
+            in Proc. of The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/DASFAA2020_ReachableArea.pdf" target='_blank'>Discovering Real-time Reachable Area using Trajectory Connections</a><br>
+            Ruiyuan Li, Jie Bao, Huajun He, <strong>Sijie Ruan</strong>, Tianfu He, Liang Hong, Zhongyuan Jiang and Yu Zheng<br>
+            in Proc. of 25th International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/paper_UbiComp20-Ruan.pdf" target='_blank'>Dynamic Public Resource Allocation based on Human Mobility Prediction</a> <a href="https://github.com/sjruan/malmcs" target="_blank">[Code&Data]</a><br>
+            <strong>Sijie Ruan</strong>, Jie Bao, Yuxuan Liang, Ruiyuan Li, Tianfu He, Chuishi Meng, Yanhua Li, Yingcai Wu and Yu Zheng<br>
+            in Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>IMWUT/UbiComp</strong>), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/www1208tianfu.pdf" target='_blank'>What is the Human Mobility in a New City? Transfer Mobility Knowledge Across Cities</a><br>
+            Tianfu He, Jie Bao, Ruiyuan Li, <strong>Sijie Ruan</strong>, Yanhua Li, Li Song, Hui He and Yu Zheng<br>
+            in Proc. of The Web Conference 2020 (<strong>WWW</strong>), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/JUST%20ICDE2020.pdf" target='_blank'>JUST: JD Urban Spatio-Temporal Data Engine</a><br>
+            Ruiyuan Li, Huajun He, Rubin Wang, Yuchuan Huang, Junwen Liu, <strong>Sijie Ruan</strong>, Tianfu He, Jie Bao and Yu Zheng<br>
+            in Proc. of the 36th IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/TrajMesaShort%20ICDE2020.pdf" target='_blank'>TrajMesa: A Distributed NoSQL Storage Engine for Big Trajectory Data (Short Paper)</a><br>
+            Ruiyuan Li, Huajun He, Rubin Wang, <strong>Sijie Ruan</strong>, Yuan Sui, Jie Bao and Yu Zheng<br>
+            in Proc. of the 36th IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2020.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/AAAI-RuanS.361.pdf" target='_blank'>Learning to Generate Maps from Trajectories</a><br>
+            <strong>Sijie Ruan</strong>, Cheng Long, Jie Bao, Chunyang Li, Zisheng Yu, Ruiyuan Li, Yuxuan Liang, Tianfu He and Yu Zheng<br>
+            in Proc. of the 34th AAAI Conference (<strong>AAAI</strong>), 2020.
+        </li>
+        <li><a href="https://dl.acm.org/doi/10.1145/3347146.3359340" target='_blank'>Effective Recycling Planning for Dockless Sharing Bikes</a><br>
+            Cong Zhang, Yanhua Li, Jie Bao, <strong>Sijie Ruan</strong>, Tianfu He, Hui Lu, Zhihong Tian, Cong Liu, Chao Tian, Jianfeng Lin and Xianen Li<br>
+            in Proc. of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2019.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/yuxuanUrbanFMKDD2019.pdf" target='_blank'>UrbanFM: Inferring Fine-Grained Urban Flows</a><br>
+            Yuxuan Liang, Kun Ouyang, Lin Jing, <strong>Sijie Ruan</strong>, Ye Liu, Junbo Zhang and Yu Zheng<br>
+            in Proc. of The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2019.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/TKDE2019HeBao.pdf" target='_blank'>Interactive Bike Lane Planning using Sharing Bikes' Trajectories</a><br>
+            Tianfu He, Jie Bao, <strong>Sijie Ruan</strong>, Ruiyuan Li, Yanhua Li, Hui He and Yu Zheng<br>
+            in IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2019.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/TBD%202018%20Efficient%20Path%20Query%20Processing%20over%20Massive%20Trajectories%20on%20the%20Cloud.pdf" target='_blank'>Efficient Path Query Processing over Massive Trajectories on the Cloud</a><br>
+            Ruiyuan Li, <strong>Sijie Ruan</strong>, Jie Bao, Yanhua Li, Yingcai Wu, Liang Hong and Yu Zheng<br>
+            in IEEE Transactions on Big Data (TBD), 2018.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/kdd2018illegalparking.pdf" target='_blank'>Detecting Illegal Vehicle Parking Events using Sharing Bikes' Trajectories</a><br>
+            Tianfu He, Jie Bao, Ruiyuan Li, <strong>Sijie Ruan</strong>, Yanhua Li, Chao Tian and Yu Zheng<br>
+            in Proc. of The 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2018.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/cloudtp-icde2018-Zheng.pdf" target='_blank'>CloudTP: A Cloud-based Flexible Trajectory Preprocessing Framework (Demo Paper)</a><br>
+            <strong>Sijie Ruan</strong>, Ruiyuan Li, Jie Bao, Tianfu He and Yu Zheng<br>
+            in Proc. of the 34th IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2018.
+        </li>
+        <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/PathQuery_Zheng_SIGSPATIAL17.pdf" target='_blank'>Querying Massive Trajectories by Path on the Cloud (Short Paper)</a><br>
+            Ruiyuan Li, <strong>Sijie Ruan</strong>, Jie Bao, Yanhua Li, Yingcai Wu and Yu Zheng<br>
+            in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2018.
+        </li>
+        <li><a href="http://bucket.kangry.net/paper/TrajectoryManagementSIGSPATIAL2017.pdf" target='_blank'>A Cloud-Based Trajectory Data Management System (Demo Paper)</a><br>
+            Ruiyuan Li, <strong>Sijie Ruan</strong>, Jie Bao, Yu Zheng<br>
+            in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2017.
+        </li>
+        <li><a href="http://urban-computing.com/pdf/main-1.pdf" target='_blank'>Planning Bike Lanes based on Sharing-Bikes' Trajectories</a><br>
+            Jie Bao, Tianfu He, <strong>Sijie Ruan</strong>, Yanhua Li and Yu Zheng<br>
+            in Proc. of The 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2017.
+        </li>
+    </ul>
+    </div>
+<br>
+
+<a name="education"></a>
+<h3>Education</h3>
+<div class="mainsection">
+<ul>
+<table width="100%">
+
+<!-- Xidian PhD -->
+<tr>
+    <td width="15%" valign="top"><p><img src="logos/xidian.png" width="100" alt="" style="border-style: none" align="top"></p></td>
+    <td width="85%" valign="top">
+        <p><b>Ph.D. Candidate in Computer Science, School of Computer Science and Technology, Xidian University</b><br/>2017.9 - Present<br/><br/>
+        Advisor:
+            <a href="http://urban-computing.com/yuzheng" target='_blank'>Prof. Yu Zheng</a>
+        </p></td>
+</tr>
+<tr></tr>
+
+<!-- Xidian Bachelor -->
+<tr>
+    <td width="15%" valign="top"><p><img src="logos/xidian.png" width="100" alt="" style="border-style: none" align="top"></p></td>
+    <td width="85%" valign="top">
+        <p><b>Bachelor of Engineering in Computer Science and Technology, Excellent Engineer Class, School of Computer Science and Technology, Xidian University</b><br/>2013.8 - 2017.7<br/><br/>
+        Advisor: <a href="https://web.xidian.edu.cn/zyjiang/en/index.html" target="_blank">Prof. Zhongyuan Jiang</a><br>
+        </p></td>
+</tr>
+<tr></tr>
+
+</table>
+</ul>
+</div>
+<br>
+
+<a name="experiences"></a>
+<h3>Working Experiences</h3>
+<div class="mainsection">
+<ul>
+<table width="100%">
+
+<!-- JD intern-->
+<tr>
+    <td width="15%" valign="top"><p><img src="logos/jd.png" width="100" alt="" style="border-style: none" align="top"></p></td>
+    <td width="85%" valign="top">
+        <p><b>Algorithm Engineer Intern, JD iCity, JD Group</b><br/>2018.1 - Present<br/><br/>
+        Mentors:
+            <a href="https://jie-bao.org/" target='_blank'>Dr. Jie Bao</a> and
+            <a href="https://personal.ntu.edu.sg/c.long/" target='_blank'>Prof. Cheng Long</a>
+        </p></td>
+</tr>
+<tr></tr>
+
+<!-- Xidian teaching-->
+<tr>
+    <td width="15%" valign="top"><p><img src="logos/xidian.png" width="100" alt="" style="border-style: none" align="top"></p></td>
+    <td width="85%" valign="top">
+        <p><b>Teaching Assistant, School of Computer Science and Technology, Xidian University</b><br/>2017.9 - 2017.11<br/><br/>
+        </p></td>
+</tr>
+<tr></tr>
+
+<!-- MSRA intern-->
+<tr>
+    <td width="15%" valign="top"><p><img src="logos/ms.jpg" width="100" alt="" style="border-style: none" align="top"></p></td>
+    <td width="85%" valign="top">
+        <p><b>Research Intern, Urban Computing Group, Microsoft Research Asia</b><br/>2016.7 - 2017.8<br/><br/>
+        Mentor: 
+            <a href="https://jie-bao.org/" target="_blank">Dr. Jie Bao</a>
+        </p></td>
+</tr>
+
+</table>
+</div>
+</ul>
+<br>
+
+<a name="reviewer"></a>
+<h3>Professional Activities</h3>
+<div class="section">
+<ul>
+    <li>Journal Reviewer: ACM Transactions on Intelligent Systems and Technology (TIST);  ACM Transactions on Data Science (TDS); IEEE Transactions on Big Data (TBD)</li>
+    <li>Conference/Workshop Program Committee: AAAI (2021); MDM (2021); UrbComp (2020)</li>
+    <li>Conference External Reviewer: AAAI (2020); KDD (2018,2019,2020); ICDE (2021); SIGIR (2018,2019,2021); CIKM (2018); SIGSPATIAL (2018,2019,2020); DASFAA (2020); SSTD (2019)</li>
+</ul>
+</div>
+<br>
+
+<a name="honor"></a>
+<h3>Honors and Awards</h3>
+<div class="section">
+<ul>
+    <li>[2021] The 3rd Prize in JD Outstanding Patent, JD Group, 4/436</li>
+    <li>[2020] State Scholarship Fund, China Scholarship Council</li>
+    <li>[2020] Outstanding Graduate Student, Xidian University</li>
+    <li>[2020] National Scholarship, Ministry of Education of P.R.C.</li>
+    <li>[2020] The 2nd Prize in "TanSuo" Cup Patent Compitition, JD Digits, 2/434</li>
+    <li>[2019] The 2nd Prize in JDD Hackathon, JD Digits, 2/238</li>
+    <li>[2018] The 4th Prize in Global Optimization Challenge, JD Logistics, 4/46</li>
+    <li>[2018] Outstanding Intern, JD iCity</li>
+    <li>[2017] Best Demonstration Runners-up, ACM SIGSPATIAL</li>
+    <li>[2017] National Scholarship, Ministry of Education of P.R.C.</li>
+    <li>[2017] Outstanding Graduates, Xidian University</li>
+    <li>[2016] National Scholarship, Ministry of Education of P.R.C.</li>
+</ul>
+</div>
+<br>
 
 
+<hr/>
+<div id="footer" style="font-size:10">Sijie Ruan <i>Last updated: February, 2021</i></div>
+</body>
